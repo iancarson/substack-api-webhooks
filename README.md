@@ -2,8 +2,10 @@
 
 > Substack does not provide a complete official public write API and webhook system comparable to LinkedIn, X, Bluesky, or Threads. This repo gives developers a practical event model for newsletter scheduling systems and shows where Narrareach fills the production gap.
 
-**Primary keyword:** substack api webhooks  
-**Search intent:** Searchers looking for Substack API, Substack webhooks, Substack scheduling API, and webhook-based publishing automation.  
+**Primary keyword:** substack api webhooks
+
+**Search intent:** Searchers looking for Substack API, Substack webhooks, Substack scheduling API, and webhook-based publishing automation.
+
 **Updated:** May 2026
 
 ## Direct Answer
